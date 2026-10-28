@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "169168d7dba71c74",
+        "id": "9fc4cddc7b1d81a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1e894439befd3ce6",
+            "id": "a3bdf35266dae689",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,10 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af83c31a6703ca63",
+  "active": "a3bdf35266dae689",
   "lastOpenFiles": [
-    "阶段规划清单.canvas",
+    "order-flow.canvas",
+    "主线/AI infra项目解释/06-llm.c.md",
     "成为AI infra工程师.canvas",
+    "主线/试水顺序.canvas",
+    "主线/AI infra试水线.canvas",
+    "主线/AI infra项目解释/10-LLMSys-PaperList.md",
+    "主线/AI infra项目解释/09-pipa.md",
+    "主线/AI infra项目解释/08-SGEMM_CUDA.md",
+    "主线/AI infra项目解释/07-GPU-Puzzles.md",
+    "主线/AI infra项目解释/05-nanoGPT-nanochat.md",
+    "主线/AI infra项目解释/04-nano-vllm.md",
+    "主线/AI infra项目解释/03-llama.cpp.md",
+    "主线/AI infra项目解释/02-AIInfra.md",
+    "主线/AI infra项目解释/01-AISystem.md",
+    "主线/AI infra项目解释",
+    "阶段规划清单.canvas",
     "主线",
     "未命名"
   ]

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c8d051f8fc0743bd","x":-140,"y":-100,"width":160,"height":60,"type":"text","text":"# 第 1–3 天"},
+		{"id":"9a88d0b5d5b28394","x":140,"y":-100,"width":500,"height":60,"type":"text","text":"## 看 AISystem 里推理相关的章节，建立概念"},
+		{"id":"1029af6797ac4c26","x":160,"y":100,"width":620,"height":60,"type":"text","text":"## 用 llama.cpp 在自己电脑上跑模型、测数据、做对比表"},
+		{"id":"b6f0071a1bc42d9f","x":200,"y":340,"width":622,"height":60,"type":"text","text":"## 玩 GPU-Puzzles 的前几题，或者读 nano-vllm 的代码"},
+		{"id":"d905b3234be4b2f6","x":-151,"y":100,"width":182,"height":60,"type":"text","text":"# 第 4–10 天"},
+		{"id":"840a89a314bf5a35","x":-151,"y":340,"width":182,"height":60,"type":"text","text":"## 第 11–14 天"}
+	],
+	"edges":[
+		{"id":"f074f1f7ee55956c","fromNode":"c8d051f8fc0743bd","fromSide":"right","toNode":"9a88d0b5d5b28394","toSide":"left"},
+		{"id":"4388071a7da2fc02","fromNode":"d905b3234be4b2f6","fromSide":"right","toNode":"1029af6797ac4c26","toSide":"left"},
+		{"id":"6e984a51b45d1040","fromNode":"840a89a314bf5a35","fromSide":"right","toNode":"b6f0071a1bc42d9f","toSide":"left"},
+		{"id":"4a2d1a881dcfd6b5","fromNode":"c8d051f8fc0743bd","fromSide":"bottom","toNode":"d905b3234be4b2f6","toSide":"top"},
+		{"id":"ff3642a5e9a10849","fromNode":"d905b3234be4b2f6","fromSide":"bottom","toNode":"840a89a314bf5a35","toSide":"top"}
+	]
+}
